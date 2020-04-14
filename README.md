@@ -1,2 +1,3 @@
 # Redacted-Public-Release-CCRe-Build-3-patch-32-Jan-2018
 Repository containing the CIF submission for Clinical Care Registries Enhancements Build 3, patch 32 rec Jan 2018
+Provide annual maintenance and sustainment to files and codes for the Clinical Case Registry (on-going). Clinical Case Registries (CCR) provides a local VISTA system program for population management. As of April 2016, twenty-nine populations have been made available for local champions to query for various access to care, quality and safety initiatives. A national database exists for two of the populations – hepatitis C and HIV. The national data are used by the HIV, Hepatitis, and Public Health Pathogens program office for the development, assessment, and improve of national policy. 
